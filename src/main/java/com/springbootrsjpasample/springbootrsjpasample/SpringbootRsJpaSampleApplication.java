@@ -8,7 +8,7 @@ public class SpringbootRsJpaSampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootRsJpaSampleApplication.class, args);
-		//System.out.println("spring boot first application running success....");
+		System.out.println("spring boot first application running success....");
 	}
 
 }
